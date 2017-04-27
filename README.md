@@ -5,5 +5,5 @@
 https://itunes.apple.com/us/app/sharpscan-+-ocr-quickly-scan/id669911832?mt=8
 https://itunes.apple.com/us/app/sharpscan-pro-+-ocr-quickly/id590359941?mt=8
 
-Developed Pixelnetica Document Imaging SDK, based of OpenGL ES, which is by FinanceFox Mobile Insurance Solution:
+Developed Pixelnetica Document Imaging SDK, using C++ and OpenGL ES to solve performance issues, which is by FinanceFox Mobile Insurance Solution:
 http://www.prnewswire.com/news-releases/pixelnetica-document-imaging-sdk-used-in-the-financefox-mobile-insurance-solution-300146772.html
